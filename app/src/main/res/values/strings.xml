@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitConflictDemo-Group1</string>
+    <string name="screen_title">Git Conflict Demo</string>
+    <string name="screen_subtitle">Collaborating with GitLab and resolving merge conflicts</string>
+    <string name="button_primary">Primary Action</string>
+    <string name="button_secondary">Secondary Action</string>
+</resources>
